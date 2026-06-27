@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "amorphous:atumalaca", "required": false },
+    { "id": "amorphous:balivel", "required": false },
+    { "id": "amorphous:bapple", "required": false },
+    { "id": "amorphous:bintilin", "required": false }
+  ]
+}
